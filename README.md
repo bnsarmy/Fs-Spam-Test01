@@ -1,7 +1,7 @@
 # Fs-Spam-Test01
 ## 🚀 Deploy on Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChutiyaXpRo/Fs-Spam-Test01)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bnsarmy/Fs-Spam-Test01)
 
 ## String Session FOR  BOT AND IDS 
 
